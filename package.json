@@ -2,6 +2,7 @@
   "name": "now-ui-kit-react",
   "version": "1.5.2",
   "private": true,
+  "homepage": "http://ravichandra93.github.io/dashboardnew",
   "dependencies": {
     "moment": "2.29.4",
     "nouislider": "15.4.0",
@@ -15,6 +16,8 @@
     "sass": "1.62.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
