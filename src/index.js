@@ -13,12 +13,12 @@ import NucleoIcons from "views/NucleoIcons.js";
 import LoginPage from "views/examples/LoginPage.js";
 import LandingPage from "views/examples/LandingPage.js";
 import ProfilePage from "views/examples/ProfilePage.js";
-import RegulatoryUpdates from "views/examples/RegulatoryUpdates"
-import OpenAccess from "views/examples/OpenAccess";
-import TariffCharges from "views/examples/TariffCharges";
-import OAregulatoryupdates from "views/examples/OAregulatoryupdates";
-import OAproject from "views/examples/OAproject";
-import Javascript from "views/index-sections/Javascript";
+import RegulatoryUpdates from "views/examples/RegulatoryUpdates.js"
+import OpenAccess from "views/examples/OpenAccess.js";
+import TariffCharges from "views/examples/TariffCharges.js";
+import OAregulatoryupdates from "views/examples/OAregulatoryupdates.js";
+import OAproject from "views/examples/OAproject.js";
+import Javascript from "views/index-sections/Javascript.js";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
